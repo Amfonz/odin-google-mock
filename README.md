@@ -6,5 +6,5 @@ Should demonstrate understanding of:
     <li>HTML page structure</li>
 		<li>various core html tags (forms, divs, semantic tags etc)</li>
 	  <li>css basic styling</li>
-	  <licss layout manipulation</li>
+	  <li>layout manipulation</li>
   </ul>
