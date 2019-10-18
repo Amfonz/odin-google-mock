@@ -1,9 +1,10 @@
 From the Odin Project:
-A clone of google's home search page and a results page
+<p>A clone of google's home search page and a results page</p>
 
 Should demonstrate understanding of:
-	- HTML page structure
-	- various core html tags (forms, divs, semantic tags etc)
-	- css basic styling
-	- css layout manipulation
-
+  <ul>
+    <li>HTML page structure</li>
+		<li>various core html tags (forms, divs, semantic tags etc)</li>
+	  <li>css basic styling</li>
+	  <licss layout manipulation</li>
+  </ul>
