@@ -64,6 +64,29 @@ header ul li{
   border-radius: 50%;
 }
 
+.rounded {
+  border-radius: 20px;
+  border: 1px solid #dfe1e5;
+  width: 450px;
+  height: 40px;
+  margin: 0 auto;
+  box-shadow: 0 0 1px #eaeaeb;
+}
+.rounded img {
+  opacity: .4;
+  position: relative;
+  left: -8px;
+  top: 8px;
+}
+#query {
+  width: 85%;
+  border: none;
+  font: 16px arial,sans-serif;
+  line-break: 34px;
+  height: 34px;
+  color: rgba(0,0,0,.87);
+}
+
 li {
   display: inline-block;
 }
