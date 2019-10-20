@@ -42,6 +42,9 @@ header .right {
 header ul li{
   margin-right: 13px;
 }
+#googleLogo {
+  margin-top: 110px;
+}
 .icon {
   position: relative;
   top: 2px;
@@ -67,10 +70,12 @@ header ul li{
 .rounded {
   border-radius: 20px;
   border: 1px solid #dfe1e5;
-  width: 450px;
-  height: 40px;
-  margin: 0 auto;
-  box-shadow: 0 0 1px #eaeaeb;
+  width: 475px;
+  height: 45px;
+  margin: 25px auto;  
+}
+.rounded:hover, .rounded:focus {
+  box-shadow: 1px 1px 2px grey;
 }
 .rounded img {
   opacity: .4;
@@ -85,12 +90,29 @@ header ul li{
   line-break: 34px;
   height: 34px;
   color: rgba(0,0,0,.87);
+  margin-top:4px;
+}
+.french {
+  color: blue;
+} 
+.buttons {
+  height: 35px;
+  width: 130px;
+  border-radius: 2px;
+  border: none;
+  margin: 10px 8px 30px 0;
+  font-family: arial,sans-serif;
+  font-size: 14px;
 }
 
+.buttons:hover {
+  border: 1px solid #c6c6c6;
+  cursor: pointer;
+}
 li {
   display: inline-block;
 }
-li a:hover{
+li a:hover, a:hover{
   text-decoration: underline;
   cursor: pointer;
 }
