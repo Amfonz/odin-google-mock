@@ -1,0 +1,47 @@
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+footer ul{
+  background-color: #f2f2f2;
+  border: 1px solid #e4e4e4;
+  padding-left: 165px;
+}
+footer:first-child{
+  border-bottom: 0;
+}
+footer ul li {
+  display: inline-block;
+  line-height: 40px;
+  margin-right: 27px;
+}
+footer ul li a:hover {
+  cursor: pointer;
+}
+
+/**Typography*/
+body {
+  font-family: Arial, sans-serif;
+}
+.can {
+  font-size: 15px;
+  color: rgba(0,0,0,.54);
+}
+footer ul li {
+  font-size: 14px;
+  color: #5f6368;
+}
+footer ul li a:hover {
+  color: #333;
+}
+strong {
+  color : black !important;
+  font-weight: bold;
+}
+
+
+
+/*                   */
+
