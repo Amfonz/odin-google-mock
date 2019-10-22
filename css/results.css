@@ -20,6 +20,26 @@ footer ul li {
 footer ul li a:hover {
   cursor: pointer;
 }
+.bleft {
+  position: absolute;
+  top: 13%;
+  display: inline-block;
+  border-left: 1px solid #e4e4e4;;
+  width: 1px;
+  height: 25%;
+
+}
+.can {
+  margin-right:10px;
+}
+.dot {
+  border-radius: 100%;
+  background: #9e9e9e; 
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-left: 17px;
+}
 
 /**Typography*/
 body {
